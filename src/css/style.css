@@ -1,0 +1,24 @@
+body {
+  background-color: gray;
+}
+
+.container {
+  height: 300px;
+  width: 500px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border: tomato 3px;
+}
+
+.container-heading {
+  color: blue;
+  text-align: center;
+  font-size: 25px;
+}
+
+.container-paragraph {
+  color: green;
+  font-size: 20px;
+}
